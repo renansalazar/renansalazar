@@ -1,16 +1,11 @@
-### Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars3.githubusercontent.com/u/20233389?v=3&u=768233eee2e9b5bb006a8db38c297c1f013a4bf0&s=400" />
+   <h3 align="center">¡Hola 👋! Soy Renan 👨🏻‍💻</h3>
+</p>
 
-<!--
-**renansalazar/renansalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Soy <strong>Desarrollador Full Stack</strong>.<br /> Me apasiona crear software que mejore la vida de quienes lo usan. Me especializo en la creación de software para clientes que van desde individuos y pequeñas empresas hasta grandes corporaciones empresariales. Puedes darte una vuelta por mi portafolio 👇</p>
+<p align="center">
+   <a href="https://renansalazar.github.io" target="blank" style='margin-right:4px'>
+     https://renansalazar.github.io
+  </a>
+</p>
